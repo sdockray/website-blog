@@ -1,3 +1,1 @@
-- [index](index.md)
-- Blog:
-	- [Blog](blog/index.md)
+- [something i learned today](index.md)
