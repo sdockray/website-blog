@@ -1,0 +1,58 @@
+# Build and deploy this website
+
+name: CI
+
+env:
+  DOCS_DIR: docs
+  SITE_URL: https://sdockray.github.io/website-blog
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
+  # Allows us to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Checkout SPD blog config files
+        uses: actions/checkout@v4
+        with:
+          repository: sdockray/mkdocs-blog
+          path: mkdocs-config
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout SPD blog content files
+        uses: actions/checkout@v4
+        with:
+          path: mkdocs-config/docs
+
+      - name: Setup Python 
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Install requirements
+        working-directory: ./mkdocs-config
+        run: python3 -m pip install -r requirements.txt
+
+      - name: Build
+        env:
+          DOCS_DIR: docs
+        run: mkdocs build --config-file mkdocs-config/mkdocs.yml --site-dir ./public
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: mkdocs-config/public
+          cname: somethingilearned.today
