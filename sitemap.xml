@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://somethingilearned.today/</loc><lastmod>2023-11-06T00:00:00+00:00</lastmod></url><url><loc>https://somethingilearned.today/projects/</loc><lastmod>2023-11-06T00:00:00+00:00</lastmod></url><url><loc>https://somethingilearned.today/projects/environments-12/</loc><lastmod>2023-11-06T00:00:00+00:00</lastmod></url><url><loc>https://somethingilearned.today/writing/</loc><lastmod>2023-11-03T00:00:00+00:00</lastmod></url><url><loc>https://somethingilearned.today/blog/rip-e-rat/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod></url><url><loc>https://somethingilearned.today/about/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod></url><url><loc>https://somethingilearned.today/blog/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod></url><url><loc>https://somethingilearned.today/contact/</loc><lastmod>2023-10-23T00:00:00+00:00</lastmod></url><url><loc>https://somethingilearned.today/projects/overview/</loc></url><url><loc>https://somethingilearned.today/writing/overview/</loc></url><url><loc>https://somethingilearned.today/writing/all-possible-sounds/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sdockray.github.io/website-blog/NAVIGATION.md/</loc>
+         <lastmod>2025-11-07</lastmod>
+    </url>
+    <url>
+         <loc>https://sdockray.github.io/website-blog/index.md/</loc>
+         <lastmod>2025-11-07</lastmod>
+    </url>
+</urlset>
