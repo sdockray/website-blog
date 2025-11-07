@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Build Hugo",
+    "path": "/Users/sdoc0001/Documents/dev/prj/obsidian-utils/build-somethingilearned.today.py",
+    "showOnBottomBar": false,
+    "icon": "Hugo"
+  },
+  {
+    "name": "Publish repo",
+    "path": "/Users/sdoc0001/Documents/dev/prj/obsidian-utils/push-somethingilearned.today.py",
+    "showOnBottomBar": false,
+    "icon": "Publish"
+  },
+  {
+    "name": "mkdocs",
+    "path": "/Users/sdoc0001/Documents/dev/prj/obsidian-utils/mkdocs-spd/preview.sh",
+    "showOnBottomBar": true,
+    "icon": "mkdocs"
+  }
+]

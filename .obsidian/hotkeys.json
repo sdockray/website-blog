@@ -1,0 +1,11 @@
+{
+  "script-launcher:run-script": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}

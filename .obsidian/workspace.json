@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "a6e39d630daa24a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1ee2f3db6aa6fc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "527db90ceabb1a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quasi-institutions/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "02e0b629e7d5b823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAVIGATION.md.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "NAVIGATION.md"
+            }
+          },
+          {
+            "id": "8f27ceb0d25b17ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index.md"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "778326a34b48bf77",
+    "type": "split",
+    "children": [
+      {
+        "id": "80d570b43998f62f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2c1e4287f143726",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37bb62efcea0973d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:performance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39f490209c0b3624",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "3b0dee841b08cf5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "246e2168fd7f498d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a40d16a7d9bcad04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Studies/machine-listening-songbook-5-x.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for machine-listening-songbook-5-x"
+            }
+          },
+          {
+            "id": "b749ac744ea53bb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Studies/machine-listening-songbook-5-x.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from machine-listening-songbook-5-x"
+            }
+          },
+          {
+            "id": "764c1010feedbe1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2845e634c72d78bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Studies/machine-listening-songbook-5-x.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of machine-listening-songbook-5-x"
+            }
+          },
+          {
+            "id": "2a37a7946ad7f776",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "feb8c427c3e9e949",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Studies/machine-listening-songbook-5-x.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for machine-listening-songbook-5-x"
+            }
+          },
+          {
+            "id": "aafbbe1318c8c9a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8f27ceb0d25b17ab",
+  "lastOpenFiles": [
+    "NAVIGATION.md.md",
+    "index.md.md",
+    "quasi-institutions/telic-arts-exchange.md",
+    "attachments/telic-book-v1.3.pdf",
+    "attachments/telic-book-v1.3-screen.pdf",
+    "quasi-institutions/aaaarg-org.md",
+    "attachments/04.jpg",
+    "studies/aaaarg-library.md",
+    "attachments/03.jpg",
+    "quasi-institutions/berlin.md",
+    "attachments/007.jpg",
+    "attachments/006.jpg",
+    "attachments/005.jpg",
+    "attachments/004.jpg",
+    "attachments/003.jpg",
+    "attachments/002.jpg",
+    "attachments/001.jpg",
+    "quasi-institutions/public-monument.md",
+    "quasi-institutions/index.md",
+    "quasi-institutions/the-public-school.md",
+    "attachments/IMG_9766.jpg",
+    "quasi-institutions/distributed-gallery.md",
+    "studies/index.md",
+    "studies/ego-trip.md",
+    "index.md",
+    "studies/voyce-walker.md",
+    "studies/the-politics-of-falling.md",
+    "NAVIGATION.md",
+    "studies/programs-and-platforms.md",
+    "studies/learning-from-youtube.md",
+    "studies/there-is-nothing-less-passive-than-the-act-of-fleeing.md",
+    "attachments/There is nothing less passive than the act of fleeing.pdf",
+    "studies/55-falls-ambient-assisted-living.md",
+    "studies/after-words.md",
+    "studies/all-possible-sounds.md",
+    "studies/always-learning.md",
+    "studies/artificial-imagination.md",
+    "studies/automation-takes-control.md",
+    "studies/C.md",
+    "attachments/Interface_Access_Loss.pdf",
+    "attachments/the-scan-and-the-export.pdf",
+    "attachments/Unconfirmed 523603.crdownload",
+    "attachments/artlink",
+    "attachments/atc",
+    "attachments/untitled folder",
+    "attachments/Always Learning - Conversation - excerpt.mp3"
+  ]
+}

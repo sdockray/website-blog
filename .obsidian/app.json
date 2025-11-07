@@ -1,0 +1,8 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "newFileLocation": "current"
+}
