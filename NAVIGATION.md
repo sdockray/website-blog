@@ -1,1 +1,4 @@
 - [something i learned today](index.md)
+- [Sean Dockray](https://metadada.xyz)
+- Blog
+	- [Blog](blog/index.md)
