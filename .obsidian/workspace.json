@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAVIGATION.md.md",
+                "file": "NAVIGATION.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NAVIGATION.md"
+              "title": "NAVIGATION"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "NAVIGATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "NAVIGATION"
             }
           }
         ],
@@ -236,10 +236,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f27ceb0d25b17ab",
+  "active": "a2c1e4287f143726",
   "lastOpenFiles": [
-    "NAVIGATION.md.md",
-    "index.md.md",
+    "index.md",
+    "NAVIGATION.md",
     "quasi-institutions/telic-arts-exchange.md",
     "attachments/telic-book-v1.3.pdf",
     "attachments/telic-book-v1.3-screen.pdf",
@@ -262,7 +262,6 @@
     "quasi-institutions/distributed-gallery.md",
     "studies/index.md",
     "studies/ego-trip.md",
-    "index.md",
     "studies/voyce-walker.md",
     "studies/the-politics-of-falling.md",
     "NAVIGATION.md",
