@@ -1,3 +1,3 @@
-- index.md
+- [index](index.md)
 - Blog:
-	- blog/index.md
+	- [Blog](blog/index.md)
