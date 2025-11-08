@@ -13,4 +13,4 @@ categories:
 
 Fuck off?
 
-![[attachments/academia.jpeg]]
+![[attachments/academia.jpeg|academia.jpeg|400]]
