@@ -1,3 +1,3 @@
-# something i learned today
+# weblog
 
-[Sean Dockray homepage](https://metadada.xyz)
+Self-publishing again.
