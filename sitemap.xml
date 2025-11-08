@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sdockray.github.io/website-blog/</loc>
-         <lastmod>2025-11-07</lastmod>
+         <lastmod>2025-11-08</lastmod>
     </url>
     <url>
          <loc>https://sdockray.github.io/website-blog/NAVIGATION/</loc>
-         <lastmod>2025-11-07</lastmod>
+         <lastmod>2025-11-08</lastmod>
     </url>
     <url>
-         <loc>https://sdockray.github.io/website-blog/blog/</loc>
-         <lastmod>2025-11-07</lastmod>
+         <loc>https://sdockray.github.io/website-blog/2025/11/08/analogies/</loc>
+         <lastmod>2025-11-08</lastmod>
     </url>
     <url>
-         <loc>https://sdockray.github.io/website-blog/blog/posts/hello-world/</loc>
-         <lastmod>2025-11-07</lastmod>
+         <loc>https://sdockray.github.io/website-blog/2025/11/07/scoby/</loc>
+         <lastmod>2025-11-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sdockray.github.io/website-blog/archive/2025/</loc>
+         <lastmod>2025-11-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sdockray.github.io/website-blog/category/academic-grift/</loc>
+         <lastmod>2025-11-08</lastmod>
+    </url>
+    <url>
+         <loc>https://sdockray.github.io/website-blog/category/acronyms/</loc>
+         <lastmod>2025-11-08</lastmod>
     </url>
 </urlset>

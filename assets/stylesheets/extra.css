@@ -13,8 +13,8 @@
   }
 
 :root  > * {
-    --md-typeset-a-color: #00F;
-    --md-typeset-a-hover-color: #00D;
+    --md-typeset-a-color: #FFA;
+    --md-typeset-a-hover-color: #FF6;
 }
 
 .md-header__title {
@@ -34,7 +34,7 @@ header.md-header.md-header--shadow {
 .md-typeset h1, .md-typeset h2, .md-typeset h3 {
     font-weight: 700;
     font-size: .9rem;
-    color: #000;
+    color: #FFF;
     font-family: 'Space Grotesk', sans-serif;
 }
 
@@ -57,7 +57,7 @@ header.md-header.md-header--shadow {
     padding-right: 0.6rem;
     border-left-width: 1px;
     line-height: 120%;
-    color: #030300;
+    color: #fcfcff;
 }
 
 .md-nav--primary .md-nav__title[for=__drawer] {
@@ -75,12 +75,11 @@ ul.md-nav__list {
 }
 
 .md-nav--primary ul.md-nav__list a.md-nav__link--active span {
-    color: #000;
+    color: #FFF;
     text-decoration: wavy underline;
 }
 
 .md-nav--primary > ul.md-nav__list > li:last-child {
-    border-top: 1px solid #ccc;
     margin-right: 50%;
 }
 
