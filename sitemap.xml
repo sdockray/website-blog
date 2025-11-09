@@ -2,30 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sdockray.github.io/website-blog/</loc>
-         <lastmod>2025-11-08</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://sdockray.github.io/website-blog/NAVIGATION/</loc>
-         <lastmod>2025-11-08</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://sdockray.github.io/website-blog/2025/11/08/analogies/</loc>
-         <lastmod>2025-11-08</lastmod>
+         <lastmod>2025-11-09</lastmod>
+    </url>
+    <url>
+         <loc>https://sdockray.github.io/website-blog/2025/11/09/being-john-smith/</loc>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://sdockray.github.io/website-blog/2025/11/07/scoby/</loc>
-         <lastmod>2025-11-08</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://sdockray.github.io/website-blog/archive/2025/</loc>
-         <lastmod>2025-11-08</lastmod>
+         <lastmod>2025-11-09</lastmod>
+    </url>
+    <url>
+         <loc>https://sdockray.github.io/website-blog/category/watching/</loc>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://sdockray.github.io/website-blog/category/academic-grift/</loc>
-         <lastmod>2025-11-08</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
     <url>
          <loc>https://sdockray.github.io/website-blog/category/acronyms/</loc>
-         <lastmod>2025-11-08</lastmod>
+         <lastmod>2025-11-09</lastmod>
     </url>
 </urlset>
