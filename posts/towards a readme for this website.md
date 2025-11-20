@@ -3,7 +3,7 @@ title: Towards a README for this website
 modified: Thursday 20th November 2025 14:48:52
 date: 2025-11-20
 showDate: true
-draft: true
+draft: false
 showPagination: false
 pin: false
 categories:
