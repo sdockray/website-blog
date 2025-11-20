@@ -1,2 +1,3 @@
 - [weblog](index.md)
+- [about](about.md)
 - [homepage](https://metadada.xyz)
